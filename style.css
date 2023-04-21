@@ -59,7 +59,7 @@ header p{
 }
 
 .addToDo input{
-    flex-grow: 1;
+    width: 255px;
     background-color: white;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
