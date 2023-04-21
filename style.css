@@ -53,6 +53,7 @@ header p{
     border: none;
     outline: none;
     font-size: 18px;
+    box-sizing: border-box;
     --border: 2.5px solid #a5a4a4;
     border-top: var(--border);
     border-bottom: var(--border);
